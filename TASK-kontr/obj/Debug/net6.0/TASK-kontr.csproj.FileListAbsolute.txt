@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\bin\Debug\net6.0\TASK-kontr.exe
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\bin\Debug\net6.0\TASK-kontr.deps.json
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\bin\Debug\net6.0\TASK-kontr.runtimeconfig.json
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\bin\Debug\net6.0\TASK-kontr.dll
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\bin\Debug\net6.0\ref\TASK-kontr.dll
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\bin\Debug\net6.0\TASK-kontr.pdb
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.AssemblyInfo.cs
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.dll
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\ref\TASK-kontr.dll
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.pdb
+C:\Users\admin\Desktop\Си# — копия\TASK-kontr\obj\Debug\net6.0\TASK-kontr.genruntimeconfig.cache
